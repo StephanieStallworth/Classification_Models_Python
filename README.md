@@ -8,7 +8,7 @@ Classification models with Python package scikit-learn
 -
 
 
-**Support Vector Machine (SVC)
+**Support Vector Machine (SVC)**
 
 ---
 ### Non-linear
