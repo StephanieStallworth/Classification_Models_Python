@@ -10,9 +10,9 @@ Classification models with Python package scikit-learn
 
 **Support Vector Machine (SVC)**
 
--
-### Non-linear
 
+### Non-linear
+-
 **K-Nearest Neighbors (KNN)**
 
 **Kernel SVM**
