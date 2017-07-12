@@ -1,5 +1,5 @@
-# Classification_Models_Python
-Classification models with Python package scikit-learn
+# Classification Models in Python
+Linear and non-linear classification models with Python package scikit-learn
 
 ## Linear
 
