@@ -26,16 +26,12 @@ Classification models with Python package scikit-learn
 - Social Network Kernel SVM K-Fold
 - Social Network Kernel SVM K-Fold with Grid Search
 
-
-
 **Naive Bayes**  
-- Social network naive bayes
- 
+- Social network Naive Bayes
  
  **Decision Tree Classification**    
  - Social Network Decision Tree Classification  
- -
-
+ 
  **Random Forest Classification**  
  - Decision Tree and Random Forests    
  - Social Network Random Forest Classitication
@@ -43,5 +39,5 @@ Classification models with Python package scikit-learn
  
  **XG Boost**
  - Churn XG Boost  
- 0 
+
  
