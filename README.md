@@ -27,7 +27,7 @@ Linear and non-linear classification models with Python package scikit-learn
 - Social Network Kernel SVM K-Fold with Grid Search
 
 **Naive Bayes**  
-- Social network Naive Bayes
+- Social Network Naive Bayes
  
  **Decision Tree Classification**    
  - Social Network Decision Tree Classification  
